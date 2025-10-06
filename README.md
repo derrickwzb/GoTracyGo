@@ -26,8 +26,8 @@ go get github.com/derrickwzb/GoTracyGo
 ## 🎓 Credits
 
 This project is inspired by and builds upon:  
-- [Tracy profiler](https://github.com/wolfpld/tracy) (MIT License) by **Jaroslav Sedlacek**  
-- [gotracy](https://github.com/grzesl/gotracy) (MIT License) by **Grzegorz Grzelak**  
+- [Tracy profiler](https://github.com/wolfpld/tracy) (MIT License) by **wolfpld**  
+- [gotracy](https://github.com/grzesl/gotracy) (MIT License) by **grzesl**  
 
 Portions of this software are derived from the above projects, which remain under the MIT License.  
 This project is licensed under the **GPLv3 License**.
