@@ -20,7 +20,7 @@ This project allows Go developers to integrate Tracy’s profiling capabilities 
 ## 🛠 Installation
 
 ```bash
-go get github.com/yourusername/tracy-go
+go get github.com/derrickwzb/GoTracyGo
 ```
 
 ## 🎓 Credits
